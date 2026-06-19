@@ -1,6 +1,6 @@
- Task 5: Troubleshooting Scenario
+# 🛠️ Task 5: Troubleshooting Scenario
 
-Scenario 1: Docker container exits immediately after startup
+## 🔹 Scenario 1: Docker container exits immediately after startup
 
 ### 1. Possible Reasons:
 - Application crashes due to errors in code  
