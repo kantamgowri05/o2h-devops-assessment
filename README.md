@@ -20,3 +20,13 @@ Open: http://localhost:3000
 - GitHub CI/CD Pipeline
 - Linux Commands
 - Bash Script Automation
+## 📸 Screenshots
+
+### Docker Running
+![Docker](screenshots/docker-running.png)
+
+### Application Output
+![App](screenshots/app-output.png)
+
+### GitHub Repo
+![Repo](screenshots/github-repo.png)
