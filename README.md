@@ -1,6 +1,7 @@
 # o2h DevOps Assessment
 
-## 📌 Project Overview
+## 📌
+ Project Overview
 This project demonstrates basic DevOps concepts including Docker, CI/CD, Git, and Linux commands.
 
 ## 🚀 Run the Application
